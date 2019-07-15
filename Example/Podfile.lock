@@ -1,0 +1,16 @@
+PODS:
+  - LibOfYan (0.1.0)
+
+DEPENDENCIES:
+  - LibOfYan (from `../`)
+
+EXTERNAL SOURCES:
+  LibOfYan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LibOfYan: 1a56a2d265577532a35a5b3835d9a5b5b3d5c95f
+
+PODFILE CHECKSUM: 08545dbc312f53ffdb316810a76eaf60432bfff6
+
+COCOAPODS: 1.7.3
