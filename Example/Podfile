@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LibOfYan_Tests' do
+  pod 'LibOfYan', :path => '../'
+  
+  
+end
